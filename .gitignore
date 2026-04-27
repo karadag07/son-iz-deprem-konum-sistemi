@@ -1,0 +1,29 @@
+# Android
+.gradle/
+.idea/
+.kotlin/
+build/
+app/build/
+local.properties
+*.apk
+*.aab
+*.iml
+
+# Spring Boot
+target/
+*.class
+*.jar
+*.war
+
+# React / Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

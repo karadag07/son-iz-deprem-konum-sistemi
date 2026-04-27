@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Son İz</string>
+    <string name="status_sent">Durum: Sunucuya gönderildi</string>
+    <string name="status_server_error">Durum: Sunucu hatası</string>
+    <string name="status_send_error">Durum: Gönderim hatası</string>
+    <string name="status_getting_location">Durum: Konum alınıyor...</string>
+    <string name="status_location_received">Durum: Konum alındı</string>
+    <string name="status_location_not_found">Durum: Konum bulunamadı</string>
+    <string name="status_error">Durum: Hata oluştu</string>
+    <string name="status_permission_denied">Durum: Konum izni verilmedi</string>
+
+    <string name="location_result">Konum:\nLatitude: %1$f\nLongitude: %2$f</string>
+    <string name="location_not_found_message">Emülatörden konum ayarlaman gerekebilir.</string>
+</resources>

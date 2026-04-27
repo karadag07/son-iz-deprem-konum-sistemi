@@ -1,0 +1,28 @@
+@import "leaflet/dist/leaflet.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #0f172a;
+  color: #0f172a;
+}
+
+.leaflet-container {
+  height: 640px;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.marker-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  border: 2px solid white;
+  box-shadow: 0 4px 10px rgba(15, 23, 42, 0.3);
+}
